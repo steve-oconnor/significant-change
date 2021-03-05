@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: "A design history for your GOV.UK service"
-description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
+title: "A design history for SDD Significant Change"
+description: "An interactive record of how this project has developed over time."
 pagination:
   data: collections.all
   reverse: true
