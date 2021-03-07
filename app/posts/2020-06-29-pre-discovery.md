@@ -1,7 +1,7 @@
 ---
 title: Pre Discovery
 description: Gathering background information and research
-date: 2021-03-04
+date: 2020-06-29
 ---
 
 Documentation from the pre discovery can be found on SDD Sharepoint:
