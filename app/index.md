@@ -1,13 +1,13 @@
 ---
 layout: collection
-title: "A design history for SDD Significant Change"
-description: "An interactive record of how this project has developed over time."
+title: "SDD Significant Change design history"
+description: "An interactive record of how the Significant Change project has developed."
 pagination:
   data: collections.all
   reverse: true
   size: 50
 posts:
-  title: Getting started
+  title: Ch-ch-ch-ch-changes
 eleventyComputed:
   eleventyNavigation:
     key: home
