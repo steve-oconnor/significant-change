@@ -16,7 +16,7 @@ The team for kickoff were:
 * Lindsey Williams, Service Designer (until Jan 2021)
 * Erin Ryan, User Researcher (left 21 Jan 2021)
 * Georgie Rastall, User Researcher (joined 09 Feb 2021)
-* Steve O'COnnor, Interaction Designer
+* Steve O'Connor, Interaction Designer
 * Nigel Jones, Content Designer (joined Jan 2021)
 * Steve Leighton, Tech Lead (joined Feb 2021)
 
