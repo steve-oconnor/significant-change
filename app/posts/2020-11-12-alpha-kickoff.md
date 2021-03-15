@@ -27,6 +27,7 @@ Additions and changes to the team included:
 * Steve Leighton, Tech Lead (joined Feb 2021)
 
 ## Problem Statement
+
 **The Significant Change process differs regionally, utilises multiple tools, templates, and communication methods, and has a legacy internal service.**
 
 As a result:
@@ -42,10 +43,12 @@ As a result:
 The overall process has much room for improvement in terms of ease and speed.
 
 ## Vision
-#### Provide a streamlined, easy to use, user-centred service to submit, assess, decide and conclude a significant change application.
+
+**Provide a streamlined, easy to use, user-centred service to submit, assess, decide and conclude a significant change application.**
 
 
 ## Alpha hypotheses
+
 1. A better application with only relevant information being requested saves time, reduces data gather, and assists the assessment​
 2. In-application prompts and examples will make the application easier to complete and people more likely to apply ahead of time
 3. Making it easier to find the Significant Change service and guidance will ensure people understand that they need to make an application in advance ​
