@@ -4,7 +4,7 @@ description: Alpha is where you try out different solutions to the problems you 
 date: 2020-11-12
 ---
 
-## We have kickoff.
+## We have kickoff
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/QXQlHI76ACIhy" alt="An animation of a man standing on a daisy covered hill, facing away from us. He's wearing a red onesie, black boots, and a tall red hat with antlers. He's holding a creatures head, which he then kick's off, into the distance." width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/punt-kickoff-goaway-QXQlHI76ACIhy">via GIPHY</a></p>
 
@@ -13,7 +13,7 @@ date: 2020-11-12
 The team for kickoff were:
 
 * James Cheetham, Product Manager
-* Paige Clayton, Associate Product Manager
+* Paige Clayton, Associate Product Manager (until March 2021)
 * Becky Leggett, Delivery Manager (filling the same role for the Concerns Casework team)
 * Daniel Fenwick, Business Analyst
 * Lindsey Williams, Service Designer (until Jan 2021)
@@ -23,8 +23,9 @@ The team for kickoff were:
 Additions and changes to the team included:
 
 * Georgie Rastall, User Researcher (joined 09 Feb 2021)
-* Nigel Jones, Content Designer (joined Jan 2021, filling the same role for the Concerns Casework team)
+* Nigel Jones, Content Designer (joined Jan 2021 until April 2021, filling the same role for the Concerns Casework team)
 * Steve Leighton, Tech Lead (joined Feb 2021)
+* David Homer, COntent Designer (joined April 2021)
 
 ## Problem Statement
 
@@ -57,3 +58,7 @@ The overall process has much room for improvement in terms of ease and speed.
 6. User friendly data capture and retrieval of Significant change information will improve sharing and audit​ing
 7. If all information could be found in one place and the academy/trust provided the info required then assessments would be straightforward
 8. ​A library of the key documents used in the decision-making process would increase standardisation​.
+
+---
+
+James Cheetham, Product Manager
