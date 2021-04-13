@@ -8,7 +8,7 @@ date: 2020-11-12
 
 From discovery findings, it was clear that there was an issue for users with the idea of Significant Change. What’s significant? In who’s opinion? 
 
-This was reinforced in research sessions when examples such as,
+This was reinforced in research sessions with examples such as:
 
 >A whole school’s moving to a completely new building, but the building’s capacity is no bigger than the old one. That’s not a significant change.
 
@@ -22,7 +22,7 @@ There were also pointers to the same problem when the guidance had to outline wh
 
 And having the original team name as Significant Change narrowed the policy, and not around the full problem that users were experiencing.
 
-##Learnings
+## Learnings
 
 If I was to take some key learnings away from this situation, it would be that when the name problem was identified, next time I’d try to understand the higher levels up of the problem (does this problem sit within a wider problem?) first and then make the team’s name reflect that - and engage with stakeholders so they understand that there is a distinction between the policy name and the digital service. 
 
@@ -39,5 +39,4 @@ The Trust or Academy wants to make a change. We have to make it as simple as pos
 Current service name: **Make changes to an academy**
 
 ---
-
 Nigel Jones, Content Designer
