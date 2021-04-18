@@ -1,7 +1,7 @@
 ---
 title: Phase | Alpha - Taking a wider perspective – a route to using the step by step navigation
 description: How we changed from creating an online form to creating a service 
-date: 2020-11-12
+date: 2020-04-02
 ---
 
 It became clear when exploring what patterns might be appropriate to help users navigate the whole problem the significant change policy presents for academies, that the step by step navigation lent itself well to the process because: 

@@ -1,7 +1,7 @@
 ---
 title: Phase | Alpha - A policy is not a service (or a team name)
 description: Make changes to an academy was originally called Significant Change 
-date: 2020-11-12
+date: 2020-04-01
 ---
 
 **Make changes to an academy was originally called Significant Change**
