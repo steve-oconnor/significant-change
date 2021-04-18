@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: "SDD Significant Change design history"
-description: "An interactive record of how the Significant Change project has developed."
+title: "SDD | Make changes to an academy | Design history"
+description: "An interactive record of how the project has developed."
 pagination:
   data: collections.all
   reverse: true
