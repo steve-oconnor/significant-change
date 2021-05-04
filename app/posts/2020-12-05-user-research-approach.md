@@ -14,6 +14,8 @@ date: 2020-12-05
 <img src="https://sdd-make-changes-design-history.netlify.app/images/team-chat-ur.png" max-height="80%" alt="DfE Sign-in screen"/>
 <figcaption>Everyone in the team was fighting to attend UR sessions!</figcaption>
 
+---
+
 ## Who we spoke to
 
 ### Weeks 0-1
