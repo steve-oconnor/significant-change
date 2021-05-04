@@ -1,5 +1,5 @@
 ---
-title: Phase | Alpha - Taking a wider perspective – a route to using the step by step navigation
+title: Taking a wider perspective – a route to using the step by step navigation
 description: How we changed from creating an online form to creating a service 
 date: 2021-04-02
 ---

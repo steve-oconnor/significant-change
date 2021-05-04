@@ -1,5 +1,5 @@
 ---
-title: Phase | Alpha - A policy is not a service (or a team name)
+title: A policy is not a service (or a team name)
 description: Make changes to an academy was originally called Significant Change 
 date: 2021-04-01
 ---
