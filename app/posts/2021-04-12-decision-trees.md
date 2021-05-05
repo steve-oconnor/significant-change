@@ -3,8 +3,10 @@ title: Decision trees
 description: Taking the anxiety out of choosing which change users need
 date: 2021-04-12
 ---
+
 <img src="https://sdd-make-changes-design-history.netlify.app/images/decision-time.gif" alt="Clip from Matrix - do you choose the red pill or the blue pill?"/>
 
+---
 
 ## What are they?
 
@@ -12,6 +14,7 @@ Decision trees are a decision analysis method that uses a tree-like flowchart mo
 
 <img src="https://sdd-make-changes-design-history.netlify.app/images/tree-diagram.svg" alt="A drawing of boxes connected by lines to illustrate a decision tree"/>
 
+---
 
 ## Why here?
 
