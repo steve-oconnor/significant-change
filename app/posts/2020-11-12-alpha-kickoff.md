@@ -50,14 +50,19 @@ The overall process has much room for improvement in terms of ease and speed.
 
 ## Alpha hypotheses
 
-1. A better application with only relevant information being requested saves time, reduces data gather, and assists the assessment​
-2. In-application prompts and examples will make the application easier to complete and people more likely to apply ahead of time
-3. Making it easier to find the Significant Change service and guidance will ensure people understand that they need to make an application in advance ​
-4. Use of the GDS prototyping toolkit, designs and usability testing will ensure increased accessibility and inclusion
-5. A level of automation and pre-population of known information in the application and the templates used internally would save time and avoid the requirement to look up existing information we hold​
-6. User friendly data capture and retrieval of Significant change information will improve sharing and audit​ing
-7. If all information could be found in one place and the academy/trust provided the info required then assessments would be straightforward
-8. ​A library of the key documents used in the decision-making process would increase standardisation​.
+### Accessibility
+* Use of GDS prototyping toolkit and designs, and robust usability testing will ensure high levels of accessibility and inclusion.
+
+### Application
+* An improved and digitised application saves time, reduces data gathering, and assists the assessment process.
+* In-application prompts and examples will make the application easier and people more likely to apply ahead of time (will go part way towards this).
+
+### Knowledge
+* Making it easier to find the Significant Change service and guidance will help users understand that they need to make an application in advance.
+
+### Processing
+* A library of key documents used in the decision-making process would increase standardisation.
+* A level of automation and pre-population of known information in the application, as well as the templates used internally, would save internal and external users time.
 
 ---
 
