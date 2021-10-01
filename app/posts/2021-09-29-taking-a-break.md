@@ -11,5 +11,3 @@ In recent months we have been busy tweaking the designs for the Make a change to
 Rest assures this is just a short break, and the work will resume in the future.
 
 <img src="https://sdd-make-changes-design-history.netlify.app/images/pause.png" alt="a set of video control icons with the pause icon highlighted in green"/>
-
----
